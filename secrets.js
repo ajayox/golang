@@ -1,16 +1,2 @@
 
-GitHub token personal (Fine-grained personal access tokens)
 
-// 1. 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z9T
-
-// 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l48Tbr
-
-Personal access tokens (classic)
-
-// ghp_zFbnGJ9AdfYdQEaBR6KnNfVsDP6QZxe01mo4KB
-// ghp_yMZ7RtqPPrTdfjRRixD6Vhf3t1OoDplM2ljboA
-
-GitHub token OX
-{not working}
-//ghp_CbydB3mQhpcbHfddnvK9Y5jXB9UtcdzD7sy75b
-//91b3144d-8855-4193b-9b44-27327ae5fd529bToken
